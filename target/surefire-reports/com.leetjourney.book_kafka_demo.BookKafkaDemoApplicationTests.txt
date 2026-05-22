@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.leetjourney.book_kafka_demo.BookKafkaDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.13 s -- in com.leetjourney.book_kafka_demo.BookKafkaDemoApplicationTests

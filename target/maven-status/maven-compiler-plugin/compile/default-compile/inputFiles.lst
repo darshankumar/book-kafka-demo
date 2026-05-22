@@ -1,0 +1,10 @@
+/Users/dnbhatia/Project/SpringBoot-Project/home-energy-tracker/book-kafka-demo/src/main/java/com/leetjourney/book_kafka_demo/BookKafkaDemoApplication.java
+/Users/dnbhatia/Project/SpringBoot-Project/home-energy-tracker/book-kafka-demo/src/main/java/com/leetjourney/book_kafka_demo/config/KafkaTopicConfig.java
+/Users/dnbhatia/Project/SpringBoot-Project/home-energy-tracker/book-kafka-demo/src/main/java/com/leetjourney/book_kafka_demo/controller/ReaderController.java
+/Users/dnbhatia/Project/SpringBoot-Project/home-energy-tracker/book-kafka-demo/src/main/java/com/leetjourney/book_kafka_demo/controller/WriterController.java
+/Users/dnbhatia/Project/SpringBoot-Project/home-energy-tracker/book-kafka-demo/src/main/java/com/leetjourney/book_kafka_demo/model/BookEntity.java
+/Users/dnbhatia/Project/SpringBoot-Project/home-energy-tracker/book-kafka-demo/src/main/java/com/leetjourney/book_kafka_demo/model/BookPublishRequest.java
+/Users/dnbhatia/Project/SpringBoot-Project/home-energy-tracker/book-kafka-demo/src/main/java/com/leetjourney/book_kafka_demo/model/BookPublishedEvent.java
+/Users/dnbhatia/Project/SpringBoot-Project/home-energy-tracker/book-kafka-demo/src/main/java/com/leetjourney/book_kafka_demo/repository/BookRepository.java
+/Users/dnbhatia/Project/SpringBoot-Project/home-energy-tracker/book-kafka-demo/src/main/java/com/leetjourney/book_kafka_demo/service/ReaderService.java
+/Users/dnbhatia/Project/SpringBoot-Project/home-energy-tracker/book-kafka-demo/src/main/java/com/leetjourney/book_kafka_demo/service/WriterService.java
